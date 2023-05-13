@@ -6,7 +6,7 @@ package com.alucardinc.r182i.controllers;
 
 /**
  *
- * @author jorge
+ * @author jorge alucard
  */
 public class Controllers {
     
